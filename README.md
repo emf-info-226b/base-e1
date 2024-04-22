@@ -1,1 +1,1 @@
-# base-e1
+# Repository de base pour l'E1
