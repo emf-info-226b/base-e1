@@ -21,6 +21,10 @@ Le second onglet permet d'exéuter la deuxième méthode et d'importer le fichie
 Et pour terminer le troisième et dernier onglet permet d'exécuter la troisième méthode.
 ![Troisième onglet ](images/onglet_3.png)
 
+## Diagramme de classe
+Le diagramme de classe du projet de base est le suivant :
+![Diagramme de classe](images/diagram_class.png)
+
 ## Worker
 Dans le worker vous trouverez votre base de données permettant de stockar les données de votre application :
 
